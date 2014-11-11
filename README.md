@@ -5,7 +5,7 @@ Lab5
 
 Questions:
 1. How long will it take the timer to roll over? 16ms (line 56)
-2. How long does each timer count last?
+2. How long does each timer count last? It is a 6 MHz clock, and thus each timer count lasts 1 us
 3. Fill out the following picture with lines from the for loop in their locations.
 
 ![alt text](https://raw.githubusercontent.com/JeremyGruszka/Lab5/master/Day1.PNG "Day 1")
@@ -94,3 +94,7 @@ I had constants for both these portions of code that I just wrote, here they are
 Getting this required functionality was quite possibly the most frustrating thing I have ever had to do in my time at the academy.  While the code is very simple, it was just not working.  I knew I had written good code because I have roughly 4 years of programming experience under my belt and I knew that the code I wrote should have been working.  After hours of staring at my code and playing with it, trying to get it to work and failing, I went to Dr. Coulston for help.  He cleaned up my code a little bit and made it a little bit easier to read, but didn't really change all that much fundamentally.  He tested the code with the remote in his office and it worked.  After seeing that it worked, I thanked him for his help and went down to the lab to adjust my values for the remote I was using.  However, once I got down to the lab, the program was no longer working.  I knew I changed nothing in between Dr. Coulston's office and the lab, so I figured it must be the remote I was using.  I tried 5 different remotes provided by the DFEC, but none worked.  In a panic, I went to Captain Trimble's office to see if she could figure out what was going on.  She could not figure out what was wrong in the time she had left in her office, so I gave up for the night and decided that I would work on it diligently on Veteran's Day, knowing that if I could not get the darn program to work, I would fail the class.  I woke up Veteran's day and went to work.  I tried running my program one last time with a remote I had in my room, and it worked! By the grace of God, my program liked the remote I had in my room.  I think the program I had written worked all along, I just happened to keep using remotes that didn't work, and that's why I could not get the results I wanted out of my program.
 
 I did not attempt A functionality because of the distressing ordeal I went through trying to get required functionality to work.
+
+Documentation:
+Dr. Coulston helped me to write cleaner looking code.
+C2C Bodin and Dr. Coulston helped me with the oscilloscope for day 1 labwork
